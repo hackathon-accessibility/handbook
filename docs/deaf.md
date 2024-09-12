@@ -17,12 +17,12 @@ We distinguish between deaf (people who became deaf but can read / write / speak
 - they cannot code and listen to someone at the same time 
 
 
-#### Beeing deaf means
+#### Being deaf means
 
 Presentations:
 As speaker I want not many slides (death per powerpoint) but deaf peple like many slides. 
 You can do this: 
-- Prepare a doc for auditive impaired people where they can read during presentation
+- Prepare a doc for auditive impaired people which they can read during presentation
 - Have a translator who writes simultaneously and the deaf person can read (there are apps .. but don't know what)
 
 Team work
